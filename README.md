@@ -11,7 +11,7 @@
 ### The abalone dataset has been used to predict the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope - - a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location(hence food availability) may be required to solve the problem.\
 ### More information about the dataset is at: https:// archive.ics.uci.edu/ml/datasets/abalone
 
-![](https://img.shields.io/badge/COPY_OF_SAMPLE_DATAFILE-8A2BE3)
+![](https://img.shields.io/badge/COPY_OF_SAMPLE_DATAFILE_ON_AWS_S3-8A2BE3)
 #### A copy of the data is available through sagemaker sample data files at s3: 
 // sagemaker-sample-files/datasets/tabular/uci_abalone/abalone.csv
 
@@ -60,5 +60,6 @@ Automation: Many steps can be automated using SageMaker's built-in features, suc
 
 Integration: SageMaker integrates with other AWS services, like S3 for data storage, CloudWatch for monitoring, and IAM for access control, providing a comprehensive and secure ML lifecycle environment.
 
+![](https://img.shields.io/badge/FLOWCHART-8A3BE3)
 
 <img width="1013" alt="Screenshot 2024-02-07 at 11 03 11" src="https://github.com/trungle14/AWS-Sagemaker-ML-Pipeline/assets/143222481/655493c1-9073-4253-9f89-31dd1afc1508">

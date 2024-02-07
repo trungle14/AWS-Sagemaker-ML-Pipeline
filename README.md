@@ -1,5 +1,12 @@
 ## Machine Learning Model - Cloud Computing and AWS
 
+![](https://img.shields.io/badge/<Data_Science>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Analytics>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Strategy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Product_Management>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Storytelling>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 ### The abalone dataset has been used to predict the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope - - a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location(hence food availability) may be required to solve the problem. More information about the dataset is at: https:// archive.ics.uci.edu/ml/datasets/abalone
 
 #### A copy of the data is available through sagemaker sample data files at s3: // sagemaker-sample-files/datasets/tabular/uci_abalone/abalone.csv

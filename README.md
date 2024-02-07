@@ -1,13 +1,11 @@
 
-Data Collection
-
+**Data Collection**
 Collect the raw data from various sources (e.g., databases, CSV files on S3).
-Data Preparation
+
+**Data Preparation**
 
 Preprocess the data (cleaning, normalization, feature engineering).
 Split the data into training, validation, and test sets.
-Choose an Algorithm
-
 Select a suitable machine learning algorithm for the problem at hand.
 Configure SageMaker Training Job
 
@@ -16,11 +14,14 @@ The algorithm or bring your own model
 Resource requirements (instance type, count)
 Input and output data locations (usually S3 paths)
 Hyperparameters
-Train the Model
+
+**Train the Model**
+
 
 Execute the training job in SageMaker.
 Monitor the training process through SageMaker console or CloudWatch.
-Model Evaluation
+
+**Model Evaluation**
 
 Evaluate the trained model's performance using the test dataset.
 If the performance is unsatisfactory, return to step 3, 4, or 5 as needed.
@@ -32,10 +33,12 @@ Monitor and Update
 
 Monitor the model's performance in production using SageMaker monitoring tools.
 Update the model as necessary by retraining with new data or adjusting hyperparameters.
-End
+
 
 The process concludes when the model is successfully deployed and operating as expected.
-Key Points
+
+**Importance Notice**
+
 Iterative Process: Model development in SageMaker is iterative. Based on model evaluation results, you may need to adjust preprocessing steps, reselect algorithms, or retune hyperparameters.
 
 Automation: Many steps can be automated using SageMaker's built-in features, such as Automatic Model Tuning for hyperparameter optimization, and SageMaker Pipelines for automating and orchestrating the entire ML workflow.

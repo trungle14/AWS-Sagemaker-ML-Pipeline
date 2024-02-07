@@ -3,10 +3,11 @@
 ![](https://img.shields.io/badge/<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Sagemaker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<XGBOOST>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Machine_Learning>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![](https://img.shields.io/badge/<Machine_Learning_Pipeline>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
+
+![](https://img.shields.io/badge/DATASET-8A2BE2)
 ### The abalone dataset has been used to predict the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope - - a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location(hence food availability) may be required to solve the problem. More information about the dataset is at: https:// archive.ics.uci.edu/ml/datasets/abalone
 
 #### A copy of the data is available through sagemaker sample data files at s3: 

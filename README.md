@@ -1,9 +1,9 @@
 ## Machine Learning Model - Cloud Computing and AWS
 
-![](https://img.shields.io/badge/<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Sagemaker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<XGBOOST>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Machine_Learning_Pipeline>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#FF6E54)
+![](https://img.shields.io/badge/<Sagemaker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#FF6E54)
+![](https://img.shields.io/badge/<XGBOOST>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#FF6E54)
+![](https://img.shields.io/badge/<Machine_Learning_Pipeline>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#FF6E54)
 
 ![](https://img.shields.io/badge/just%20the%20message-8A2BE2?color=FF5733)
 
